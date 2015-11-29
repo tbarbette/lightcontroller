@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Light Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_connect">Connect to master</string>
+    <string name="pref_remote_server_port_summary">Port %d will be used</string>
+    <string name="remote_connect_host_hint">Host</string>
+    <string name="remote_connect_host_port">Port</string>
+    <string name="remote_connect_button">Connect</string>
+    <string name="remote_connect_cancel">Cancel</string>
+    <string name="remote_connect_title">Connect to master</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="couldnot_connect">Sorry, could not connect to client...</string>
+    <string name="couldnot_listen">Could not launch master\'s server. No device will be able to connect to us as a master device...</string>
+    <string name="connected_to_master">You are connected to the master ! He can control you now !</string>
+</resources>
